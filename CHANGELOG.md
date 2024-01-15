@@ -2,6 +2,56 @@
 
 
 
+## v1.23.0 (2024-01-15)
+
+### Ci
+
+* ci: manual bump to v1.22.4 ([`8e8ec72`](https://github.com/MadeInPierre/finalynx/commit/8e8ec723eb6f3db2f03170cf28a155b9c08c3f2f))
+
+* ci: add permissions for semantic release ([`7e986a5`](https://github.com/MadeInPierre/finalynx/commit/7e986a57fd9db0f6ce098bef59d88b164d94d68c))
+
+### Feature
+
+* feat(dashboard): add layered evolution graphs (#150)
+
+More graphs available in the dashboard with view per classification (envelopes, asset classes, line by line, ...) by @gcoue ([`6f0d1b3`](https://github.com/MadeInPierre/finalynx/commit/6f0d1b39d72682fc005fc0e7e28101c725f6b7c5))
+
+
+## v1.22.4 (2024-01-13)
+
+### Chore
+
+* chore: update full example ([`00138dd`](https://github.com/MadeInPierre/finalynx/commit/00138dd2fcaf2226402b5d1881ee9993624c8cc7))
+
+### Ci
+
+* ci: manual update to v1.22.3 ([`c2d7d82`](https://github.com/MadeInPierre/finalynx/commit/c2d7d8286ad289222fecafcdf4456356a7ffcebc))
+
+* ci: use trusted auth for PyPI publishing ([`ea2a814`](https://github.com/MadeInPierre/finalynx/commit/ea2a814b091d3c47987645b1ce9ac1bead5b61f8))
+
+### Fix
+
+* fix(fetch): change credit card to negative amount (#147)
+
+* Change credit card to negative amount
+
+* Rollback source_finary.py
+
+* Change credit card to negative amount
+
+* [pre-commit.ci lite] apply automatic fixes
+
+* Add a flag to allow the potfolio restitution for each simulation step
+
+* Add a flag to allow the potfolio restitution for each simulation step
+
+* fix: correct the recurrence function to be more precise on Yearly recurrence
+
+* [pre-commit.ci lite] apply automatic fixes
+
+* style: minor refactoring ([`d9478db`](https://github.com/MadeInPierre/finalynx/commit/d9478db0bcd4db01887ddee5ed542dcc6204116b))
+
+
 ## v1.22.3 (2023-09-18)
 
 ### Chore
