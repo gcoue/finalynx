@@ -38,8 +38,8 @@ Vous n'avez pas encore Finary ? Vous pouvez vous inscrire en utilisant mon [lien
   </div>
 </summary>
 
-| Recommendations | Tableau de bord web |
-| --- | --- |
+| Recommendations                                                                                                                    | Tableau de bord web                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://raw.githubusercontent.com/MadeInPierre/finalynx/main/docs/_static/screenshot_recommendations.png" width="600" /> | <img src="https://raw.githubusercontent.com/MadeInPierre/finalynx/main/docs/_static/screenshot_dashboard.png" width="600" /> |
 
 Finalynx comprend également un gestionnaire de budget quotidien pour classer vos dépenses et afficher des statistiques mensuelles et annuelles :
@@ -71,6 +71,8 @@ pip install finalynx  # exécuter à nouveau avec --upgrade pour mettre à jour
 ```
 
 Et c'est tout ! Maintenant, créez votre propre copie de l'exemple [`demo.py`](https://github.com/MadeInPierre/finalynx/blob/main/examples/demo.py) n'importe où et exécutez-le pour vous assurer que tout fonctionne. Vous pouvez maintenant le personnaliser pour vos propres besoins 🚀
+
+**Débutants:** Voici des [étapes détaillées](https://finalynx.readthedocs.io/en/latest/quickstart/installation.html#detailed-instructions) et une [vidéo](https://www.terminalizer.com/view/5fcce8cb5875). N'hésitez pas à [ouvrir une discussion](https://github.com/MadeInPierre/finalynx/discussions), avec plaisir pour aider !
 
 **Pro Tip 💡:** _Pourquoi pas créer un script pour lancer le projet dans un terminal à chaque démarrage ? Jolie vue_ 🤭
 
@@ -106,7 +108,7 @@ Ce projet est sous la [License GPLv3](https://github.com/MadeInPierre/finalynx/b
 
 ## 💌 Donations
 
-[<img align="right" src="https://www.mathisplumail.com/wp-content/uploads/2021/04/coffee.png" width="161" />](https://github.com/sponsors/MadeInPierre)
+[<img align="right" src="https://raw.githubusercontent.com/MadeInPierre/finalynx/main/docs/_static/buymeacoffee.png" width="161" />](https://github.com/sponsors/MadeInPierre)
 Ceci est un projet personnel sur lequel je m'amuse pendant mon temps libre. Si vous l'avez trouvé utile et souhaitez soutenir mon travail, vous pouvez [m'offrir un café](https://github.com/sponsors/MadeInPierre) ! Cela me donnerait la motivation nécessaire pour continuer à l'améliorer 😄 Merci !
 
 Un grand merci également à tous les contributeurs 🌹 n'oubliez pas d'aller les voir :
@@ -114,6 +116,8 @@ Un grand merci également à tous les contributeurs 🌹 n'oubliez pas d'aller l
 <a href="https://github.com/MadeInPierre/finalynx/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=MadeInPierre/finalynx" />
 </a>
+
+<!-- ![Alt](https://repobeats.axiom.co/api/embed/44fc99b8a4a89962a0e1a7170f8d44cd3e9ea2e0.svg "Repobeats analytics image") -->
 
 <!-- Breaking: :boom:
 

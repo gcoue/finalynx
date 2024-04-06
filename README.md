@@ -38,8 +38,8 @@ Don't have Finary yet? You can sign up using my [referral link](https://finary.c
   </div>
 </summary>
 
-| Recommendations | Web dashboard |
-| --- | --- |
+| Recommendations                                                                                                                    | Web dashboard                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://raw.githubusercontent.com/MadeInPierre/finalynx/main/docs/_static/screenshot_recommendations.png" width="600" /> | <img src="https://raw.githubusercontent.com/MadeInPierre/finalynx/main/docs/_static/screenshot_dashboard.png" width="600" /> |
 
 Finalynx also includes a daily budget manager to classify your expenses and show monthly & yearly statistics:
@@ -71,6 +71,8 @@ pip install finalynx  # run again with --upgrade to update
 ```
 
 And you're done! Now create your own copy of the [`demo.py`](https://github.com/MadeInPierre/finalynx/blob/main/examples/demo.py) example anywhere and run it to make sure everything works. You can now customize it for your own needs 🚀
+
+**Beginners:** Here are detailed steps in the [documentation](https://finalynx.readthedocs.io/en/latest/quickstart/installation.html#detailed-instructions) or a [video](https://www.terminalizer.com/view/5fcce8cb5875). Feel free to [open a discussion](https://github.com/MadeInPierre/finalynx/discussions) for help!
 
 **Pro Tip 💡:** _Why not setup a script to autorun your config in a new terminal on startup? Could be a nice view_ 🤭
 
@@ -106,7 +108,7 @@ This project is under the [GPLv3 License](https://github.com/MadeInPierre/finaly
 
 ## 💌 Donations
 
-[<img align="right" src="https://www.mathisplumail.com/wp-content/uploads/2021/04/coffee.png" width="161" />](https://github.com/sponsors/MadeInPierre)
+[<img align="right" src="https://raw.githubusercontent.com/MadeInPierre/finalynx/main/docs/_static/buymeacoffee.png" width="161" />](https://github.com/sponsors/MadeInPierre)
 This is a personal project I have fun with on my free time. If you found it useful and wish to support my work, you can [buy me a coffee](https://github.com/sponsors/MadeInPierre)! It would give me the motivation to keep improving it further 😄 Thank you!
 
 Also, big thanks to all contributors 🌹 don't forget to check them out:
@@ -114,6 +116,8 @@ Also, big thanks to all contributors 🌹 don't forget to check them out:
 <a href="https://github.com/MadeInPierre/finalynx/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=MadeInPierre/finalynx" />
 </a>
+
+<!-- ![Alt](https://repobeats.axiom.co/api/embed/44fc99b8a4a89962a0e1a7170f8d44cd3e9ea2e0.svg "Repobeats analytics image") -->
 
 <!-- Breaking: :boom:
 
