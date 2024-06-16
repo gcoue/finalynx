@@ -183,3 +183,4 @@ cython_debug/
 .vscode/
 assistant_config_immoStNaz.py
 assistant_config_immoStNaz SansTarget.py
+assistant_config_orig.py
